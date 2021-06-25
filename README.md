@@ -1,4 +1,9 @@
 # comp702
+Nhlakanipho Machi
+216008043
+
+https://github.com/nf-mach-1/comp702.git
+
 Image Processing using Iris dataset and Swedish data set
 The swedish dataset can be found in the following link since I could not upload it here : https://drive.google.com/drive/folders/1dyK6zRya5DUUbXsspSa6FEvienQ6lNtP?usp=sharing
 The project is splitted into 2 part: you can either run any of the projects. 
