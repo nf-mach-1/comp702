@@ -12,8 +12,10 @@ The easy way to run the project.py file is to use colaboratory which you can fin
 In colab you will copy and paste the code in project.py then make sure that the dataset is within your google drive 
 path: /content/drive/MyDrive/leaf-classification/images/images/78.jpg
 this is the path you can use in colab once you have given it access your google drive, make sure that the dataset is in your 'MyDrive' so that you can see it in colab
+When running the code on your local machine make sure that the file and dataset are in the same directory then the path will be : leaf-classification/images/images/78.jpg
 
 
 when running accuracy.py make sure that the iris.csv file is in the same directory as the accuracy.py file
 this one can be run on your machine but you can also you colaboratory if you don't want to install the packages
 path : /content/drive/MyDrive/iris.csv
+When running the code on your local machine make sure that the file and dataset are in the same directory then the path will be : iris.csv
