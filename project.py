@@ -19,7 +19,7 @@ rcParams['figure.figsize'] = (6, 6)
 
 # reading an image file using matplotlib into a numpy array
 # select the path where the dataset is
-img = mpimg.imread('/content/drive/MyDrive/leaf-classification/images/images/78.jpg')
+img = mpimg.imread('leaf-classification/images/images/78.jpg')
 
 # using image processing module of scipy to find the center of the leaf
 cy, cx = ndi.center_of_mass(img)
